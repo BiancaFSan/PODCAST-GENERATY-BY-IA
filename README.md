@@ -3,12 +3,14 @@ Sobreviva. Codifique. Conquiste.
 Projeto Podcast Gerado por I.A.s
 
 💻 Tecnologias utilizadas no projeto
+
 ChatGPT
 MidJourney
 ElevenLabs
 Capcut
 
 ✨ Como foi feito ?
+
 Roteiro gerado via chatgpt
 Audio gerado pela elevenLabs
 Midjourney Para gerar capas
